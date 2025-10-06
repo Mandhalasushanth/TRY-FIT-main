@@ -75,12 +75,11 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 This project is licensed under the MIT License.
 
 
-# TryFit: AI Multi-Angle Virtual Try-On
+ # TryFit: AI Multi-Angle Virtual Try-On
 
 🎯 **Live Demo:**  
-[👉 Click here to view the live site](https://try-fit-main-2cu3z87p1-mandhalasushanths-projects.vercel.app)
+[👉 Click here to view the live site](https://try-fit-main-git-main-mandhalasushanths-projects.vercel.app)
 
----
 
 
 ## Credits
